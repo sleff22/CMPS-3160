@@ -12,3 +12,5 @@ The first set involves all games as long as they support English, have a price t
 The second data set is the set of all games with price 0, but still support English and have a metacritic score.
 
 I chose these metrics as a simple way to filter out entries that weren't real games, didn't use characters that unicode could interpret, or were otherwise unuseful datapoints.
+
+The full games.csv file was too large to load into Colab and GitHub, so it is currently being hosted on GIT's large file system, so it will not show the raw values on this repository.
