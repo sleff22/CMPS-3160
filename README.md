@@ -1,6 +1,6 @@
 # Kaggle Steam Games Data Sets
 
-Our Colab notebook can be found (here)[https://colab.research.google.com/drive/1tx-s_51ZsaE76XxECL3M3WFzYNSwJpXq?usp=sharing]
+Our Colab notebook can be found [here](https://colab.research.google.com/drive/1tx-s_51ZsaE76XxECL3M3WFzYNSwJpXq?usp=sharing)
 
 I uploaded the parser, two cleaned data sets, and the overall full data set in JSON format.
 Both Kaggle_Cleaned_Sets are CSV files with the following labels:
